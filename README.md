@@ -1,1 +1,1 @@
-# New-Light-Technologies-Informal-Settlements
+# New Light Technologies: Informal Settlements
