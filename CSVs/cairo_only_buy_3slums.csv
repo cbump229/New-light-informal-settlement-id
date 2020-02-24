@@ -1,0 +1,477 @@
+Baths,Beds,Location,Square Meter,base_price,city,country,page,property_type,sub_div
+6,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,9800000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",407,9000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,5600000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",166,1850000,Cairo,Egypt,buy,Penthouse,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"El Yasmeen 8, El Yasmeen, New Cairo City, Cairo",200,2200000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,3000000,Cairo,Egypt,buy,iVilla,New Cairo City
+5,6,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",640,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,5400000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",323,6400000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,11800000,Cairo,Egypt,buy,Villa,New Cairo City
+3,2,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",133,1380000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3950000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",355,6700000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",229,5900000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,5,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,1500000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",265,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+6,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,6500000,Cairo,Egypt,buy,Townhouse,New Cairo City
+5,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,13500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,5650000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",190,3340000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",257,5600000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",355,6900000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,2,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",167,1800000,Cairo,Egypt,buy,Penthouse,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",186,3300000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,5,"Sarayat Al Maadi, Hay El Maadi, Cairo",470,16000000,Cairo,Egypt,buy,Villa,Hay El Maadi
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",267,4300000,Cairo,Egypt,buy,Duplex,New Cairo City
+6,6,"Rivan, New Capital Compounds, New Capital City, Cairo",550,7000000,Cairo,Egypt,buy,Villa,New Capital City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",211,2700000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",234,4350000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,5700000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,2,"Stone Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",140,1985200,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",305,3250000,Cairo,Egypt,buy,iVilla,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",243,5000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3500000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",155,2400000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Al Jazeera, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",380,8500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",234,2700000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",235,2427000,Cairo,Egypt,buy,Duplex,New Cairo City
+4,4,"Mountain View 2, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",420,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",133,2200000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",348,6900000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",173,2970000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",279,5650000,Cairo,Egypt,buy,Townhouse,New Cairo City
+5,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,6600000,Cairo,Egypt,buy,Townhouse,New Cairo City
+7+,7,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",810,17500000,Cairo,Egypt,buy,Villa,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",357,9100000,Cairo,Egypt,buy,Villa,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,8000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",255,4200000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",331,6400000,Cairo,Egypt,buy,Twin House,New Cairo City
+7+,7+,"American University Housing District, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo","1,766",29000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Leila Mourad St., El Yasmeen 5, El Yasmeen, New Cairo City, Cairo",370,2600000,Cairo,Egypt,buy,Duplex,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",225,2400000,Cairo,Egypt,buy,iVilla,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",243,2750000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",391,9600000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",271,5500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",315,5900000,Cairo,Egypt,buy,Townhouse,New Cairo City
+5,3,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",245,8062000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",274,2850000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",750,17000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",133,1330000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",303,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",278,2750000,Cairo,Egypt,buy,iVilla,New Cairo City
+5,6,"Stone Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",470,8500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Taj City, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",149,1700000,Cairo,Egypt,buy,Apartment,New Cairo City
+7+,7+,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",714,16450000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",287,2950000,Cairo,Egypt,buy,iVilla,New Cairo City
+2,2,"Bloomfields, Mostakbal City Compounds, Mostakbal City - Future City, Cairo",112,1310000,Cairo,Egypt,buy,Apartment,Mostakbal City - Future City
+2,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",125,2150000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,6200000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Zavani, New Capital Compounds, New Capital City, Cairo",168,1680000,Cairo,Egypt,buy,Apartment,New Capital City
+3,3,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",190,2100000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,6,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",900,12000000,Cairo,Egypt,buy,Villa,New Cairo City
+1,1,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",80,1150000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",221,2500000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",270,7750000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",161,1650000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",391,10250000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",391,10600000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"The Square, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",173,1550000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",253,8200000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",199,2150000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",174,1750000,Cairo,Egypt,buy,Apartment,New Cairo City
+7,6,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,12000000,Cairo,Egypt,buy,Villa,New Cairo City
+7,6,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",640,13500000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Fifth Square, North Investors Area, New Cairo City, Cairo",150,2940000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",330,6500000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Stone Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",240,4000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",203,3235000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",198,4200000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,8000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",450,6225000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Stone Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",340,7500000,Cairo,Egypt,buy,Villa,New Cairo City
+5,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",400,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",341,6900000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"The Square, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",176,1550000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",278,2750000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Akoya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",168,1976500,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",366,9413000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",150,2900000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,7,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",680,13500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",160,1650000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",278,4200000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",164,1850000,Cairo,Egypt,buy,Penthouse,New Cairo City
+3,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",306,5500000,Cairo,Egypt,buy,Townhouse,New Cairo City
+7,5,"Lake View, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",950,30000000,Cairo,Egypt,buy,Villa,New Cairo City
+5,5,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",305,3160000,Cairo,Egypt,buy,iVilla,New Cairo City
+5,5,"Degla Square, Degla, Hay El Maadi, Cairo",300,3500000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+3,4,"The Square, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",210,2000000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Azzar, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",250,4400000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",341,7000000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",190,5900000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",331,6400000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",211,2800000,Cairo,Egypt,buy,Duplex,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",160,1550000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",675,15500000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Century City, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",100,1425000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",317,4150000,Cairo,Egypt,buy,Duplex,New Cairo City
+7,6,"Dyar Compound, 90 Street, The 5th Settlement, New Cairo City, Cairo","1,000",14000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Sarayat Al Maadi, Hay El Maadi, Cairo",280,4500000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+4,4,"Mountain View 1, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",530,14500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",435,7900000,Cairo,Egypt,buy,Villa,New Cairo City
+5,3,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",340,6000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,5,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",323,7835000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3600000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"HAP Town, Mostakbal City Compounds, Mostakbal City - Future City, Cairo",248,5500000,Cairo,Egypt,buy,Villa,Mostakbal City - Future City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",357,7900000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",281,4650000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",287,3100000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,4,"Sodic East, 6th District, New Heliopolis, Cairo",234,4497000,Cairo,Egypt,buy,Townhouse,New Heliopolis
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",347,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+1,3,"Bait Alwatan, The 5th Settlement, New Cairo City, Cairo",125,743000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",850,33500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",327,7500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",188,1100000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Hayah Residence, North Teseen St., The 5th Settlement, New Cairo City, Cairo",560,9800000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,6250000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,9000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"El Patio 7, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",210,4300000,Cairo,Egypt,buy,Apartment,New Cairo City
+7,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",630,15250000,Cairo,Egypt,buy,Villa,New Cairo City
+6,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",590,15000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",320,6400000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"El Patio Oro, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",164,2045000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",205,3320000,Cairo,Egypt,buy,Apartment,New Cairo City
+1,1,"Taj City, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",65,1100000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Sarayat Al Maadi, Hay El Maadi, Cairo",260,4600000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",189,3150000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"The Square, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",185,1650000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"El Patio Oro, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",128,2000000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,2,"Mountain View Executive, Al Andalus District, New Cairo City, Cairo",141,2500000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",248,6000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",125,2000000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",560,12950000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",310,6100000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",186,3900000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Stone Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",245,4000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",170,2000000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",405,5500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",303,6000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,3,"Fifth Square, North Investors Area, New Cairo City, Cairo",147,2940000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",183,2970000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",256,2750000,Cairo,Egypt,buy,Duplex,New Cairo City
+3,2,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",161,3200000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Stone Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",175,2171000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Palm Hills Katameya Extension, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,6000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",175,1800000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",127,2100000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",365,5600000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",215,2150000,Cairo,Egypt,buy,Apartment,New Cairo City
+7,6,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",630,20000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",128,1250000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Stone Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",220,2760000,Cairo,Egypt,buy,Penthouse,New Cairo City
+5,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",391,8250000,Cairo,Egypt,buy,Villa,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",590,9000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",290,4600000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",278,2800000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",236,2250000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Regents Park, Al Andalus District, New Cairo City, Cairo",187,3205000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",400,8700000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",180,1900000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Castle Landmark, New Capital Compounds, New Capital City, Cairo",120,1200000,Cairo,Egypt,buy,Apartment,New Capital City
+2,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",173,1750000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",186,3600000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Bait Alwatan, The 5th Settlement, New Cairo City, Cairo",283,1535000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Stone Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",140,1985000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,6,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",918,13000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Al Narges 2, Al Narges, New Cairo City, Cairo",350,3100000,Cairo,Egypt,buy,Duplex,New Cairo City
+2,2,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",156,3200000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",192,3100000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Palm Hills New Cairo, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",384,5500000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,3,"Al Patio 5, El Patio, El Shorouk Compounds, Shorouk City, Cairo",194,3590000,Cairo,Egypt,buy,Townhouse,Shorouk City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",303,8700000,Cairo,Egypt,buy,Villa,New Cairo City
+2,1,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",82,1100000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",279,6500000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",357,6200000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",234,3900000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",140,1450000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",430,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+5,4,"Landmark Village, Ext North Inves Area, New Cairo City, Cairo",340,7000000,Cairo,Egypt,buy,Twin House,New Cairo City
+7+,7+,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",480,10900000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,5700000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,5,"Sarayat Al Maadi, Hay El Maadi, Cairo",300,7000000,Cairo,Egypt,buy,Duplex,Hay El Maadi
+3,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",127,1950000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",186,3300000,Cairo,Egypt,buy,Apartment,New Cairo City
+7+,7+,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",610,16900000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",202,2180000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",316,5400000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",250,7000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",330,7000000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",345,4500000,Cairo,Egypt,buy,Penthouse,New Cairo City
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",156,2600000,Cairo,Egypt,buy,Apartment,New Cairo City
+7,6,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",520,18400000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",195,5000000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",272,3000000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",166,1850000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",380,10150000,Cairo,Egypt,buy,Villa,New Cairo City
+6,6,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",490,8500000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",166,1840000,Cairo,Egypt,buy,Penthouse,New Cairo City
+3,3,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",200,5000000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Stone Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",245,4700000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",440,5000000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",235,3900000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",230,2560000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",311,5700000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Palm Hills Katameya Extension, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",260,4403000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",245,3300000,Cairo,Egypt,buy,Duplex,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",160,1700000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,3,"El Patio Oro, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",160,2060000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",600,16000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",184,3500000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"La Mirada Compound, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",100,1100000,Cairo,Egypt,buy,Apartment,New Cairo City
+7+,3,"Street 1, District 1, The 5th Settlement, New Cairo City, Cairo","1,160",48000000,Cairo,Egypt,buy,Whole Building,New Cairo City
+4,,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",229,5850000,Cairo,Egypt,buy,Twin House,New Cairo City
+6,5,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",810,17000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,2,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",160,892550,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,4,"New Maryland, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",420,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",140,3500000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",440,8000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",145,2145000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",194,5200000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",238,2225000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",314,7200000,Cairo,Egypt,buy,Twin House,New Cairo City
+1,1,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",80,1000000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,6200000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",151,2800000,Cairo,Egypt,buy,Apartment,New Cairo City
+7,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",620,13400000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",224,2500000,Cairo,Egypt,buy,iVilla,New Cairo City
+7,6,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",630,17250000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Levana, Uptown Cairo, Mokattam, Cairo",472,16000000,Cairo,Egypt,buy,Villa,Mokattam
+7+,7+,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",850,17000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",375,5500000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,7200000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",190,2850000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",252,9000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",259,4800000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3400000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",199,2200000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,8000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",217,2850000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",240,4250000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,14000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",169,3350000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",155,1650000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,7000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",324,3800000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,2,"The Sierras, Uptown Cairo, Mokattam, Cairo",162,3400000,Cairo,Egypt,buy,Apartment,Mokattam
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,10250000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,15000000,Cairo,Egypt,buy,Villa,New Cairo City
+6,7,"Katameya Heights, El Katameya Compounds, El Katameya, New Cairo City, Cairo",650,49000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Street 256, Maadi, Hay El Maadi, Cairo",260,3500000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+3,3,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",210,6900000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",440,7800000,Cairo,Egypt,buy,Villa,New Cairo City
+7+,7+,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",850,17500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",320,5900000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+5,7,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",630,15250000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,2,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",145,4140000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Area B, Ganoob El Acadimia, New Cairo City, Cairo",200,2500000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",225,6750000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",320,6750000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",316,6000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Orouba Axis, Area A, Ganoob El Acadimia, New Cairo City, Cairo",220,1950000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",134,2350000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,3,"Scenario, New Capital Compounds, New Capital City, Cairo",190,2391625,Cairo,Egypt,buy,Apartment,New Capital City
+4,4,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",370,11000000,Cairo,Egypt,buy,Duplex,New Cairo City
+3,3,"The Sierras, Uptown Cairo, Mokattam, Cairo",147,4800000,Cairo,Egypt,buy,Apartment,Mokattam
+7+,7+,"Al Shouyfat, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo","1,200",25000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Sarayat Al Maadi, Hay El Maadi, Cairo",230,3500000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+1,1,"Porto Heliopolis, Almazah, Heliopolis - Masr El Gedida, Cairo",65,860000,Cairo,Egypt,buy,Apartment,Heliopolis - Masr El Gedida
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,6300000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,3,"Green Avenue, New Capital Compounds, New Capital City, Cairo",158,1659000,Cairo,Egypt,buy,Apartment,New Capital City
+3,4,"Mountain View 3, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",262,5600000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",355,6900000,Cairo,Egypt,buy,Twin House,New Cairo City
+6,6,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",303,7750000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,5,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,2900000,Cairo,Egypt,buy,iVilla,New Cairo City
+6,6,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",700,13000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Layan Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",283,5842250,Cairo,Egypt,buy,Twin House,New Cairo City
+6,6,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",620,13000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Wasef Ghaly Basha St., Al Narges 4, Al Narges, New Cairo City, Cairo",235,2650000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Area B, Ganoob El Acadimia, New Cairo City, Cairo",380,3800000,Cairo,Egypt,buy,Duplex,New Cairo City
+3,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",197,2960000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",400,9000000,Cairo,Egypt,buy,Villa,New Cairo City
+7,7+,"Cairo Festival City, North Investors Area, New Cairo City, Cairo","1,400",10000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",305,3150000,Cairo,Egypt,buy,iVilla,New Cairo City
+2,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",195,3250000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",132,3200000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,3,"Ring Road, Zahraa El Maadi, Hay El Maadi, Cairo",170,1100000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",350,6800000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",557,11500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",320,7400000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",450,8000000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,6100000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",316,5750000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Layan Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",237,3895000,Cairo,Egypt,buy,Townhouse,New Cairo City
+1,3,"MU-23, Downtown Area, New Capital City, Cairo",48,1536000,Cairo,Egypt,buy,Bulk Sale Unit,New Capital City
+1,5,"Financial District, New Capital City, Cairo",86,2838000,Cairo,Egypt,buy,Bulk Sale Unit,New Capital City
+3,4,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",205,5200000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Layan Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",480,5500000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",317,4300000,Cairo,Egypt,buy,Duplex,New Cairo City
+5,3,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",263,5600000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3500000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,4,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",174,1800000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Degla Square, Degla, Hay El Maadi, Cairo",200,4000000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+6,2,"Gardenia Springs, Ext North Inves Area, New Cairo City, Cairo",840,12000000,Cairo,Egypt,buy,Villa,New Cairo City
+2,6,"Mountain View iCity, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",155,2200000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",530,13000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"The MarQ, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",185,5100000,Cairo,Egypt,buy,Villa,New Cairo City
+6,6,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",310,7250000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,6,"Le Reve, El Katameya Compounds, El Katameya, New Cairo City, Cairo","1,250",10700000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",195,3331250,Cairo,Egypt,buy,Apartment,New Cairo City
+2,3,"El Narges Buildings, Al Narges, New Cairo City, Cairo",205,1850000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",307,6500000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,2500000,Cairo,Egypt,buy,iVilla,New Cairo City
+2,2,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",133,1800000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Galleria Moon Valley, South Investors Area, New Cairo City, Cairo",140,2300000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",142,2600000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",263,4287000,Cairo,Egypt,buy,Townhouse,New Cairo City
+5,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",560,10750000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",223,2450000,Cairo,Egypt,buy,iVilla,New Cairo City
+2,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",160,1780000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Castle Landmark, New Capital Compounds, New Capital City, Cairo",150,1496000,Cairo,Egypt,buy,Apartment,New Capital City
+5,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",263,5250000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Al Burouj Compound, El Shorouk Compounds, Shorouk City, Cairo",165,1200000,Cairo,Egypt,buy,Townhouse,Shorouk City
+4,4,"Al Diyar, Al Narges, New Cairo City, Cairo",750,15500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",495,10750000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Al Patio 5, El Patio, El Shorouk Compounds, Shorouk City, Cairo",248,4275000,Cairo,Egypt,buy,Twin House,Shorouk City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",480,9700000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo",850,18000000,Cairo,Egypt,buy,Villa,New Cairo City
+1,2,"Omar Khorshid St., El Banafseg 10, El Banafseg, New Cairo City, Cairo",130,1870000,Cairo,Egypt,buy,Hotel Apartment,New Cairo City
+1,1,"Omar Khorshid St., El Banafseg 10, El Banafseg, New Cairo City, Cairo",52,840000,Cairo,Egypt,buy,Hotel Apartment,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",320,7000000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Galleria Moon Valley, South Investors Area, New Cairo City, Cairo",194,2450000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Mountain View 1, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",730,25000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Al Jazeera, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",380,8600000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Tag Al Din El Sobky St., Ard El Golf, Heliopolis - Masr El Gedida, Cairo",340,3200000,Cairo,Egypt,buy,Apartment,Heliopolis - Masr El Gedida
+3,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",215,3200000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",274,2700000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,11800000,Cairo,Egypt,buy,Villa,New Cairo City
+6,5,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+5,6,"Fifth Square, North Investors Area, New Cairo City, Cairo",347,1015000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",348,13494888,Cairo,Egypt,buy,Twin House,New Cairo City
+6,6,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",263,5600000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",350,9250000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Mountain View iCity, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",235,1900000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"La Vista City, New Capital Compounds, New Capital City, Cairo",230,4900000,Cairo,Egypt,buy,Villa,New Capital City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",278,5150000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,4,"Villette, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Stone Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,6000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",355,7200000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Palm Hills Kattameya, El Katameya Compounds, El Katameya, New Cairo City, Cairo",900,10000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3650000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+2,3,"Mountain View iCity, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",235,2300000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"The Square, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",220,2800000,Cairo,Egypt,buy,Penthouse,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",190,6150000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3900000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",265,7150000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",355,8200000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,15500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",340,7600000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,5,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,3000000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",340,6900000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,3,"El Patio Oro, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",164,900000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,4000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",271,5500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",391,9100000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"The Village, South Investors Area, New Cairo City, Cairo",146,2850000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",229,6500000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",285,5500000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",191,4366000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",215,3450000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",142,300000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hassan Khater St., El Nozha El Gadida, El Nozha, Cairo",260,1820000,Cairo,Egypt,buy,Apartment,El Nozha
+2,2,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",144,2000000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Dyar, Ext North Inves Area, New Cairo City, Cairo",345,8250000,Cairo,Egypt,buy,Villa,New Cairo City
+6,5,"Dyar, Ext North Inves Area, New Cairo City, Cairo",450,10500000,Cairo,Egypt,buy,Villa,New Cairo City
+5,4,"Dyar Compound, 90 Street, The 5th Settlement, New Cairo City, Cairo",345,9000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",427,15000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",348,6431155,Cairo,Egypt,buy,Twin House,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",270,8200000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",156,2980000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,6,"Madinaty, Cairo",900,13000000,Cairo,Egypt,buy,Villa,Madinaty
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",186,3250000,Cairo,Egypt,buy,Apartment,New Cairo City
+2,2,"Midtown Condo, New Capital Compounds, New Capital City, Cairo",105,1160000,Cairo,Egypt,buy,Apartment,New Capital City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",229,7200000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",390,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+1,3,"Alsuwais Cairo Road, Zahraa El Maadi, Hay El Maadi, Cairo",108,826000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",320,7500000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,15887500,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Flowers Park, North Investors Area, New Cairo City, Cairo",500,10500000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",392,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",347,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",228,7200000,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,10950000,Cairo,Egypt,buy,Villa,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",238,5125000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,12812500,Cairo,Egypt,buy,Villa,New Cairo City
+4,5,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",391,9600000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",285,6000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,3,"Madinaty, Cairo",124,1050000,Cairo,Egypt,buy,Apartment,Madinaty
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,6300000,Cairo,Egypt,buy,Townhouse,New Cairo City
+4,3,"R7, New Capital City, Cairo",186,1989883,Cairo,Egypt,buy,Apartment,New Capital City
+4,4,"Layan Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",319,4600000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,2,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",152,1500000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",520,4000000,Cairo,Egypt,buy,Villa,New Cairo City
+5,4,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",335,3500000,Cairo,Egypt,buy,Penthouse,New Cairo City
+5,5,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",800,25000000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",360,4970000,Cairo,Egypt,buy,Townhouse,New Cairo City
+3,4,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",200,3800000,Cairo,Egypt,buy,Duplex,New Cairo City
+2,2,"Stone Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",155,2400000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",345,5817000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",235,4400000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",285,5000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+7+,7+,"Cairo Festival City, North Investors Area, New Cairo City, Cairo","1,080",22000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",300,2950000,Cairo,Egypt,buy,iVilla,New Cairo City
+5,4,"Mohamed Mazhar St., Zamalek, Cairo",500,19500000,Cairo,Egypt,buy,Apartment,Zamalek
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",280,5000000,Cairo,Egypt,buy,Townhouse,New Cairo City
+2,2,"Al Thawra St., Almazah, Heliopolis - Masr El Gedida, Cairo",127,2200000,Cairo,Egypt,buy,Apartment,Heliopolis - Masr El Gedida
+3,4,"Mountain View Executive, Al Andalus District, New Cairo City, Cairo",234,3590000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Galleria Moon Valley, South Investors Area, New Cairo City, Cairo",200,2600000,Cairo,Egypt,buy,Penthouse,New Cairo City
+4,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",278,2850000,Cairo,Egypt,buy,iVilla,New Cairo City
+5,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",356,9500000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Castle Landmark, New Capital Compounds, New Capital City, Cairo",150,1575000,Cairo,Egypt,buy,Apartment,New Capital City
+7+,7+,"Katameya Dunes, El Katameya Compounds, El Katameya, New Cairo City, Cairo","1,820",55000000,Cairo,Egypt,buy,Villa,New Cairo City
+4,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",321,6900000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,4,"Al Katameya Plaza, The 1st Settlement, New Cairo City, Cairo",274,4400000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Cairo Festival City, North Investors Area, New Cairo City, Cairo",538,16250000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",155,1700000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",330,7450000,Cairo,Egypt,buy,Twin House,New Cairo City
+5,6,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",630,15250000,Cairo,Egypt,buy,Villa,New Cairo City
+4,4,"Levana, Uptown Cairo, Mokattam, Cairo",550,11000000,Cairo,Egypt,buy,Villa,Mokattam
+3,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",435,7900000,Cairo,Egypt,buy,Villa,New Cairo City
+2,2,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",140,1430000,Cairo,Egypt,buy,Apartment,New Cairo City
+6,6,"Concord Gardens, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",500,6000000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Degla View, Zahraa El Maadi, Hay El Maadi, Cairo",275,2500000,Cairo,Egypt,buy,Apartment,Hay El Maadi
+4,4,"Village Gardens Katameya, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",255,3600000,Cairo,Egypt,buy,Duplex,New Cairo City
+3,3,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",233,3800000,Cairo,Egypt,buy,Duplex,New Cairo City
+4,3,"Aurora, Uptown Cairo, Mokattam, Cairo",236,6500000,Cairo,Egypt,buy,Apartment,Mokattam
+5,5,"Levana, Uptown Cairo, Mokattam, Cairo",810,19500000,Cairo,Egypt,buy,Villa,Mokattam
+1,1,"Palm Hills Village Gate, South Investors Area, New Cairo City, Cairo",88,1400000,Cairo,Egypt,buy,Apartment,New Cairo City
+4,5,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",682,947000,Cairo,Egypt,buy,Villa,New Cairo City
+3,3,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",190,6350000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Layan Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",283,6000000,Cairo,Egypt,buy,Twin House,New Cairo City
+4,4,"Mivida, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",277,7175000,Cairo,Egypt,buy,Twin House,New Cairo City
+3,3,"Lake View Residence, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",215,3600000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",211,1374400,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",279,5525000,Cairo,Egypt,buy,Twin House,New Cairo City
+2,2,"Galleria Moon Valley, South Investors Area, New Cairo City, Cairo",111,1250000,Cairo,Egypt,buy,Apartment,New Cairo City
+5,4,"Eastown, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",310,4800000,Cairo,Egypt,buy,Duplex,New Cairo City
+3,4,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",287,3200000,Cairo,Egypt,buy,iVilla,New Cairo City
+4,3,"Mountain View Hyde Park, 5th Settlement Compounds, The 5th Settlement, New Cairo City, Cairo",304,3180000,Cairo,Egypt,buy,iVilla,New Cairo City
+3,4,"Bait Alwatan, The 5th Settlement, New Cairo City, Cairo",225,1530000,Cairo,Egypt,buy,Apartment,New Cairo City
+3,3,"Bait Alwatan, The 5th Settlement, New Cairo City, Cairo",192,1305600,Cairo,Egypt,buy,Apartment,New Cairo City
+,,"Mansheya Nasir, Governorate Egypt, Cairo",,1,Cairo,,,Informal Settlements,Governorate Egypt
+,,"Ezbet el-Haggana, Nasr City, Egypt",,1,Cairo,,,Informal Settlements,Nasr City
+,,"7 Branshed from Al Soultan Ahmed, El-Darb El-Ahmar, Monsha'et Nasser, Cairo Governorate, Egypt",,1,Cairo,,,Informal Settlements,Governorate Egypt
