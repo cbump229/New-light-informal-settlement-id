@@ -91,7 +91,7 @@ With the latitude and longitdue for both the population and real estate data, we
 
 If we were to have more population density information and a better distribution of real estate locations, I would create a model based on gridding over the two features and train and their relationships with known informal settlement locations. Each grid size would be arbitrary and depend on the resolution desired, and the ratio of advertisments to population make give a probability of an infromal settlement residing inside that square.
 
-![Final Map](/Final Map/Final Map.png)
+![Final Map](./Final Map/Final Map.png)
 
 #### Conclusion 
 Looking back at the outcome of this project, the biggest hurdle to climb was ensuring the locations were correct. It is an issue for Cario and, as mentioned before, other cities in developing countries. If the fidelity of real estate latitude and longitude was icnreased, there could be something to be said about this approach; otherwise, the outcome will largly remain undefined.
