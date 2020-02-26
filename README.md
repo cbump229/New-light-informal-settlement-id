@@ -39,6 +39,8 @@ Geographically, Cairo extends over the east bank of the Nile from Shubra in the 
 2. https://www.middleeasteye.net/features/life-slums-cairo, 3. https://www.ucl.ac.uk/dpu-projects/Global_Report/pdfs/Cairo.pdf, 
 4.  https://thearabweekly.com/egyptian-project-seeks-revolutionise-urban-slums, 5. https://www.researchgate.net/figure/Comparison-between-the-official-list-of-slum-areas-in-the-governorate-of-Cairo-and-the_fig2_248524259
 
+### Other Cities
+At the time we selelcted Cairo as our city to apply our case study, we also spent time looking at other places such as Nairobi, Kenya. The issue we had with Nairobi was with the lack of location data for the real estate ads. In general, the othe information provided was a few photos of the home, type of housing, beds & baths, and the price. The location was marked as Nairobi or at best a section within Nairobi, Kenya. Never an actual, exact streeet address was provided. Additionally, we reached out to HassConsult on obtaining more information on real estate ads, specifically Nairobi. Their response gave some insight on the real estate advertisments, which are often listed on newspapers and social media feeds. They also mentioned that real estate data on Informal Settlements is rarely collect or listed, where we would need to specifically request a bespoke data collection. 
 
 ## Team Tasks
 
@@ -89,12 +91,13 @@ With the latitude and longitdue for both the population and real estate data, we
 
 If we were to have more population density information and a better distribution of real estate locations, I would create a model based on gridding over the two features and train and their relationships with known informal settlement locations. Each grid size would be arbitrary and depend on the resolution desired, and the ratio of advertisments to population make give a probability of an infromal settlement residing inside that square.
 
-![Final Map]('../Final Map/Final Map.png')
+![Final Map](/Final Map/Final Map.png)
 
 #### Conclusion 
 Looking back at the outcome of this project, the biggest hurdle to climb was ensuring the locations were correct. It is an issue for Cario and, as mentioned before, other cities in developing countries. If the fidelity of real estate latitude and longitude was icnreased, there could be something to be said about this approach; otherwise, the outcome will largly remain undefined.
 
 #### Next Steps
+Moving forward with this project, our recommendations would be refining the housing data Longitude and Latitude as well as pulling from other sources such as social media posts. Couple that with other cities, a well working model can be developed to assit with Informal Settlement indentification.
 
 ### Obstacles & Ideas That Did `NOT` Work
 - Limited amounts of housing data available on public property websites
