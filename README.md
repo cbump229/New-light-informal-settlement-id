@@ -97,7 +97,7 @@ If we were to have more population density information and a better distribution
 Looking back at the outcome of this project, the biggest hurdle to climb was ensuring the locations were correct. It is an issue for Cario and, as mentioned before, other cities in developing countries. If the fidelity of real estate latitude and longitude was icnreased, there could be something to be said about this approach; otherwise, the outcome will largly remain undefined.
 
 #### Next Steps
-Moving forward with this project, our recommendations would be refining the housing data Longitude and Latitude as well as pulling from other sources such as social media posts. Couple that with other cities, a well working model can be developed to assit with Informal Settlement indentification.
+Moving forward with this project, our recommendations would be refining the housing data Longitude and Latitude as well as pulling from other sources such as social media posts. Couple that with other cities, a well working model can be developed to assist with Informal Settlement indentification.
 
 ### Obstacles & Ideas That Did `NOT` Work
 - Limited amounts of housing data available on public property websites
