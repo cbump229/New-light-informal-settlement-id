@@ -25,7 +25,7 @@ This notebook is responsible for
 
 #### 02_combine_dataset
 This notebook is responsible for
-- creating a new csv containing all of the information from the original datasets.
+- creating a new csv containing all of the features from the original datasets.
 - adjusting the names of columns and splitting the coordinate back to Longitude and Latitude.
 
 #### 03_graph_cairo
